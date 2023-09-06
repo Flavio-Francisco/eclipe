@@ -1,8 +1,8 @@
-package teste;
+package Lista1;
 
 import java.util.Scanner;
 
-public class atividade4 {
+public class exercicio04 {
 	public static void main(String[] args) {
 		Scanner print = new Scanner(System.in);
 		System.out.println("digite um numero");

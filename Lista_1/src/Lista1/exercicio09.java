@@ -1,7 +1,7 @@
-package teste;
+package Lista1;
 import java.util.Scanner;
 
-public class atividade9 {
+public class exercicio09 {
 
 	public static void main(String[] args) {
 		Scanner numero = new Scanner(System.in);

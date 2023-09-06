@@ -1,7 +1,7 @@
-package teste;
+package Lista1;
 import java.util.Scanner;
 
-public class atividade10 {
+public class exercicio10 {
 
 	public static void main(String[] args) {
 			Scanner print = new Scanner(System.in);

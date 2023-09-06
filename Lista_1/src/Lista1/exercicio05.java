@@ -1,6 +1,6 @@
-package teste;
+package Lista1;
 import java.util.Scanner;
-public class atividade5 {
+public class exercicio05 {
 
 	public static void main(String[] args) {
 		Scanner print = new Scanner(System.in);
